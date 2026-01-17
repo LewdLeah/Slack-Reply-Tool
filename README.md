@@ -50,7 +50,7 @@ Your actual reply goes here
    - You'll see a tooltip: `⮎ Link copied`
 2. **Select & copy the text** you want to quote (from that message or anywhere)
    - You'll see a tooltip: `⮎ Quote ready`
-3. **Ctrl+V** to paste your formatted reply
+3. **Ctrl+V** to paste your formatted quote block
 4. Type your actual reply and hit Enter
 
 That's literally it. The link expires after 60 seconds so you don't accidentally quote something from 3 hours ago.
