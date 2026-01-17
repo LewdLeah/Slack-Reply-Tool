@@ -7,7 +7,7 @@ Made by LewdLeah ❤️
 
 ---
 
-## What Is This?
+## Why?
 
 Slack threads are a mess without a built-in reply feature like Discord has.
 
