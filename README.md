@@ -34,7 +34,7 @@ Your actual reply goes here
 ## Steps to Install
 
 1. **Download AutoHotkey v2** → [autohotkey.com/download](https://www.autohotkey.com/download/)
-   - It's a free Windows automation tool, don't worry it's not a virus lmao
+   - It's a free Windows automation tool, don't worry it's not a virus :3
 2. **Run the installer** → Just click Next until it's done
 3. **Download this script** → Click the green `Code` button above → `Download ZIP`
 4. **Extract the ZIP** → Right-click → Extract All
