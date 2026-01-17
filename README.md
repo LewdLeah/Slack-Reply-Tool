@@ -17,7 +17,7 @@ Slack threads are a mess without a built-in reply feature like Discord has.
 
 | Step | What You Do | What Happens |
 |:----:|:------------|:-------------|
-| 1 | Copy a Slack message link | Tool remembers it (60s timeout) |
+| 1 | Copy a Slack message link | Tool remembers it (for up to 60 seconds) |
 | 2 | Copy the text you want to quote | Tool gets ready~ |
 | 3 | Ctrl+V anywhere in Slack | Pastes a sexy formatted quote with reply link |
 
