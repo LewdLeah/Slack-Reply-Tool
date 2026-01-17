@@ -7,10 +7,7 @@ TIMEOUT_SECONDS := 60
 ; Clipboard change handler
 ClipChanged(Type) {
     global rememberedLink, linkTimestamp
-    if (Type != 1) {
-        return
-    }
-    if (!ClipWait(0.1)) {
+    if ((Type != 1) || !ClipWait(0.1)) {
         return
     }
     clipboardContent := A_Clipboard
