@@ -63,5 +63,4 @@ Free and open-source! Use it, share it, modify it, whatever. Just be nice to eac
 
 ---
 
-<p align="center"><i>No more "wait who are you replying to???"</i></p>
 <p align="center">Made with love by <a href="https://github.com/LewdLeah">LewdLeah</a> ❤️</p>
