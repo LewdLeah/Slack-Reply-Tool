@@ -21,7 +21,7 @@ ClipChanged(Type) {
         ToolTip("⮎ Link copied")
         SetTimer(() => ToolTip(), -1500)
     } else if (rememberedLink != "") {
-        ; Text copied with a remembered link - paste will be formatted
+        ; Text copied with a remembered link (paste will be formatted)
         ToolTip("⮎ Quote ready")
         SetTimer(() => ToolTip(), -1500)
     }
